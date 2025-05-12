@@ -1,0 +1,42 @@
+# 🥚 Egg Catcher Game 🎮
+
+A simple and fun egg catching game built using **Python** and **Tkinter**. The player moves a basket to catch falling eggs and avoid missing them. The game ends when too many eggs are missed!
+
+---
+
+## 🚀 Features
+
+- Smooth keyboard controls (← → arrows)
+- Increasing difficulty as the game progresses
+- Score tracking
+- Game Over message with final score
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+- Tkinter (standard Python GUI library)
+- `random` for egg positions
+
+---
+
+## 🎮 How to Play
+
+- Use the **Left (←)** and **Right (→)** arrow keys to move the basket.
+- Catch the eggs before they hit the ground.
+- Each egg caught adds to your score.
+- The game ends when you miss 10 eggs.
+
+---
+
+## 🧪 Setup Instructions
+
+### 🔧 Requirements
+
+- Python 3.x
+
+### ▶️ Run the Game
+
+```bash
+python egg_catcher.py
